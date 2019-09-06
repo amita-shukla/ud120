@@ -1,0 +1,64 @@
+[I 10:30:02.937 LabApp] Copying /home/ubuntu/.ipython/kernels -> /home/ubuntu/.local/share/jupyter/kernels
+[I 10:30:02.949 LabApp] Copying /home/ubuntu/.ipython/profile_default/static/custom/custom.js -> /home/ubuntu/.jupyter/custom/custom.js
+[W 10:30:02.957 LabApp] Config option `base_kernel_url` not recognized by `LabApp`.  Did you mean one of: `base_project_url, base_url`?
+[W 10:30:02.957 LabApp] base_project_url is deprecated, use base_url
+[W 10:30:02.959 LabApp] Config option `base_kernel_url` not recognized by `LabApp`.  Did you mean one of: `base_project_url, base_url`?
+[I 10:30:02.971 LabApp] Writing notebook server cookie secret to /home/ubuntu/.local/share/jupyter/runtime/notebook_cookie_secret
+[W 10:30:04.260 LabApp] All authentication is disabled.  Anyone who can connect to this server will be able to run code.
+[I 10:30:04.299 LabApp] JupyterLab beta preview extension loaded from /usr/local/lib/python2.7/dist-packages/jupyterlab
+[I 10:30:04.299 LabApp] JupyterLab application directory is /usr/local/share/jupyter/lab
+[W 10:30:04.307 LabApp] JupyterLab server extension not enabled, manually loading...
+[I 10:30:04.308 LabApp] JupyterLab beta preview extension loaded from /usr/local/lib/python2.7/dist-packages/jupyterlab
+[I 10:30:04.308 LabApp] JupyterLab application directory is /usr/local/share/jupyter/lab
+[I 10:30:04.316 LabApp] Serving notebooks from local directory: /mnt
+[I 10:30:04.316 LabApp] 0 active kernels
+[I 10:30:04.317 LabApp] The Jupyter Notebook is running at:
+[I 10:30:04.317 LabApp] http://domino-run-5b6822d4e4b0efc4e5cbc9c7:8888/amitashukla/UD120/notebookSession/5b6822d4e4b0efc4e5cbc9c7/
+[I 10:30:04.317 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 10:30:04.322 LabApp] 302 GET /amitashukla/UD120/notebookSession/5b6822d4e4b0efc4e5cbc9c7 (10.0.254.176) 1.01ms
+[I 10:30:08.616 LabApp] 302 GET /amitashukla/UD120/notebookSession/5b6822d4e4b0efc4e5cbc9c7 (10.0.194.105) 0.50ms
+[I 10:30:08.628 LabApp] 302 GET /amitashukla/UD120/notebookSession/5b6822d4e4b0efc4e5cbc9c7 (10.0.194.105) 0.47ms
+[I 10:30:08.923 LabApp] 302 GET /amitashukla/UD120/notebookSession/5b6822d4e4b0efc4e5cbc9c7 (10.0.194.105) 0.53ms
+[I 10:30:09.620 LabApp] 302 GET /amitashukla/UD120/notebookSession/5b6822d4e4b0efc4e5cbc9c7 (10.0.40.19) 0.40ms
+[I 10:30:09.918 LabApp] 302 GET /amitashukla/UD120/notebookSession/5b6822d4e4b0efc4e5cbc9c7 (10.0.194.105) 0.35ms
+[I 10:30:20.827 LabApp] Build is up to date
+[I 11:19:15.723 LabApp] Writing notebook-signing key to /home/ubuntu/.local/share/jupyter/notebook_secret
+[W 11:19:15.725 LabApp] Notebook final_project/poi_id.ipynb is not trusted
+[I 11:19:17.491 LabApp] Kernel started: fa508140-7567-4863-8315-84759390790b
+[I 11:19:18.427 LabApp] Adapting to protocol v5.0 for kernel fa508140-7567-4863-8315-84759390790b
+[I 11:19:19.241 LabApp] Adapting to protocol v5.0 for kernel fa508140-7567-4863-8315-84759390790b
+[I 11:21:17.693 LabApp] Saving file at /final_project/poi_id.ipynb
+[I 11:25:18.579 LabApp] Saving file at /final_project/poi_id.ipynb
+[I 11:27:20.112 LabApp] Saving file at /final_project/poi_id.ipynb
+[I 11:29:21.586 LabApp] Saving file at /final_project/poi_id.ipynb
+[I 11:30:10.730 LabApp] 302 GET /amitashukla/UD120/notebookSession/5b6822d4e4b0efc4e5cbc9c7 (10.0.254.176) 0.64ms
+[I 11:30:20.577 LabApp] 302 GET /amitashukla/UD120/notebookSession/5b6822d4e4b0efc4e5cbc9c7 (10.0.194.105) 0.41ms
+[I 11:31:30.839 LabApp] 302 GET /amitashukla/UD120/notebookSession/5b6822d4e4b0efc4e5cbc9c7 (10.0.40.19) 0.42ms
+[I 11:33:23.324 LabApp] Saving file at /final_project/poi_id.ipynb
+[I 11:35:25.131 LabApp] Saving file at /final_project/poi_id.ipynb
+[I 13:17:08.382 LabApp] 302 GET /amitashukla/UD120/notebookSession/5b6822d4e4b0efc4e5cbc9c7 (10.0.194.105) 0.42ms
+[I 13:17:20.989 LabApp] 302 GET /amitashukla/UD120/notebookSession/5b6822d4e4b0efc4e5cbc9c7 (10.0.40.19) 0.46ms
+[I 13:25:23.548 LabApp] 302 GET /amitashukla/UD120/notebookSession/5b6822d4e4b0efc4e5cbc9c7 (10.0.254.176) 0.41ms
+[I 13:49:57.593 LabApp] Saving file at /final_project/poi_id.ipynb
+[I 13:51:59.393 LabApp] Saving file at /final_project/poi_id.ipynb
+[I 13:54:01.439 LabApp] Saving file at /final_project/poi_id.ipynb
+[W 13:54:44.846 LabApp] Notebook validation/validate_poi.ipynb is not trusted
+[I 13:54:46.246 LabApp] Kernel started: e1d65a13-a0bd-437c-9838-4e4b7cc31951
+[I 13:54:48.632 LabApp] Adapting to protocol v5.0 for kernel e1d65a13-a0bd-437c-9838-4e4b7cc31951
+[W 13:55:11.323 LabApp] Notebook text_learning/vectorize_text_UPDATED.ipynb is not trusted
+[I 13:55:12.849 LabApp] Kernel started: 659d7b1f-f89b-4c5b-ac53-7934f8ca1fde
+[I 13:55:14.695 LabApp] Adapting to protocol v5.0 for kernel 659d7b1f-f89b-4c5b-ac53-7934f8ca1fde
+[W 13:55:37.283 LabApp] Notebook datasets_questions/explore_enron_data.ipynb is not trusted
+[I 13:55:39.388 LabApp] Kernel started: 89652922-cc80-416f-9f37-092e3364645b
+[I 13:55:41.783 LabApp] Adapting to protocol v5.0 for kernel 89652922-cc80-416f-9f37-092e3364645b
+[I 13:56:03.098 LabApp] Saving file at /final_project/poi_id.ipynb
+[I 14:00:04.797 LabApp] Saving file at /final_project/poi_id.ipynb
+[I 14:02:08.196 LabApp] Saving file at /final_project/poi_id.ipynb
+[W 14:04:07.236 LabApp] Notebook datasets_questions/explore_enron_data.ipynb is not trusted
+[I 14:04:11.127 LabApp] Adapting to protocol v5.0 for kernel 89652922-cc80-416f-9f37-092e3364645b
+[I 14:06:10.698 LabApp] Saving file at /final_project/poi_id.ipynb
+[I 14:17:51.094 LabApp] 302 GET /amitashukla/UD120/notebookSession/5b6822d4e4b0efc4e5cbc9c7 (10.0.194.105) 0.43ms
+[W 14:18:08.896 LabApp] Notebook validation/validate_poi.ipynb is not trusted
+[I 14:18:10.695 LabApp] Adapting to protocol v5.0 for kernel e1d65a13-a0bd-437c-9838-4e4b7cc31951
+[W 14:18:25.592 LabApp] Notebook text_learning/vectorize_text_UPDATED.ipynb is not trusted
+[I 14:18:27.703 LabApp] Adapting to protocol v5.0 for kernel 659d7b1f-f89b-4c5b-ac53-7934f8ca1fde

@@ -1,0 +1,57 @@
+[I 09:46:00.771 LabApp] Copying /home/ubuntu/.ipython/kernels -> /home/ubuntu/.local/share/jupyter/kernels
+[I 09:46:01.502 LabApp] Copying /home/ubuntu/.ipython/profile_default/static/custom/custom.js -> /home/ubuntu/.jupyter/custom/custom.js
+[W 09:46:01.511 LabApp] Config option `base_kernel_url` not recognized by `LabApp`.  Did you mean one of: `base_project_url, base_url`?
+[W 09:46:01.511 LabApp] base_project_url is deprecated, use base_url
+[W 09:46:01.513 LabApp] Config option `base_kernel_url` not recognized by `LabApp`.  Did you mean one of: `base_project_url, base_url`?
+[I 09:46:01.522 LabApp] Writing notebook server cookie secret to /home/ubuntu/.local/share/jupyter/runtime/notebook_cookie_secret
+[W 09:46:05.068 LabApp] All authentication is disabled.  Anyone who can connect to this server will be able to run code.
+[I 09:46:05.084 LabApp] JupyterLab beta preview extension loaded from /usr/local/lib/python2.7/dist-packages/jupyterlab
+[I 09:46:05.084 LabApp] JupyterLab application directory is /usr/local/share/jupyter/lab
+[W 09:46:05.090 LabApp] JupyterLab server extension not enabled, manually loading...
+[I 09:46:05.091 LabApp] JupyterLab beta preview extension loaded from /usr/local/lib/python2.7/dist-packages/jupyterlab
+[I 09:46:05.091 LabApp] JupyterLab application directory is /usr/local/share/jupyter/lab
+[I 09:46:05.098 LabApp] Serving notebooks from local directory: /mnt
+[I 09:46:05.098 LabApp] 0 active kernels
+[I 09:46:05.098 LabApp] The Jupyter Notebook is running at:
+[I 09:46:05.098 LabApp] http://domino-run-5b76992be4b065aec8b1f5f6:8888/amitashukla/UD120/notebookSession/5b76992be4b065aec8b1f5f6/
+[I 09:46:05.098 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 09:46:06.887 LabApp] 302 GET /amitashukla/UD120/notebookSession/5b76992be4b065aec8b1f5f6 (10.0.40.19) 0.71ms
+[I 09:46:10.352 LabApp] 302 GET /amitashukla/UD120/notebookSession/5b76992be4b065aec8b1f5f6 (10.0.40.19) 0.42ms
+[I 09:46:10.949 LabApp] 302 GET /amitashukla/UD120/notebookSession/5b76992be4b065aec8b1f5f6 (10.0.40.19) 0.50ms
+[I 09:46:11.833 LabApp] 302 GET /amitashukla/UD120/notebookSession/5b76992be4b065aec8b1f5f6 (10.0.194.105) 0.36ms
+[I 09:46:16.325 LabApp] 302 GET /amitashukla/UD120/notebookSession/5b76992be4b065aec8b1f5f6 (10.0.254.176) 0.91ms
+[I 09:46:18.503 LabApp] Build is up to date
+[I 09:48:32.317 LabApp] Writing notebook-signing key to /home/ubuntu/.local/share/jupyter/notebook_secret
+[W 09:48:32.319 LabApp] Notebook final_project/poi_id.ipynb is not trusted
+[I 09:48:33.797 LabApp] Kernel started: 8ad20667-4f27-4a4c-bff1-6968a5b44fe9
+[I 09:48:34.890 LabApp] Adapting to protocol v5.0 for kernel 8ad20667-4f27-4a4c-bff1-6968a5b44fe9
+[I 09:48:35.810 LabApp] Adapting to protocol v5.0 for kernel 8ad20667-4f27-4a4c-bff1-6968a5b44fe9
+[I 09:48:36.774 LabApp] Adapting to protocol v5.0 for kernel 8ad20667-4f27-4a4c-bff1-6968a5b44fe9
+[I 11:35:29.084 LabApp] 302 GET /amitashukla/UD120/notebookSession/5b76992be4b065aec8b1f5f6 (10.0.194.105) 0.42ms
+[W 11:35:29.094 LabApp] Replacing stale connection: 8ad20667-4f27-4a4c-bff1-6968a5b44fe9:0926075baafdadae378d86f529797c15
+[I 11:35:34.096 LabApp] Adapting to protocol v5.0 for kernel 8ad20667-4f27-4a4c-bff1-6968a5b44fe9
+[I 11:35:35.461 LabApp] 302 GET /amitashukla/UD120/notebookSession/5b76992be4b065aec8b1f5f6 (10.0.254.176) 0.38ms
+[W 11:35:35.471 LabApp] Replacing stale connection: 8ad20667-4f27-4a4c-bff1-6968a5b44fe9:b5808b7f267879cbfb21161718aa76ed
+[E 11:35:36.775 LabApp] Exception in callback <bound method ZMQChannelsHandler.send_ping of ZMQChannelsHandler(8ad20667-4f27-4a4c-bff1-6968a5b44fe9)>
+    Traceback (most recent call last):
+      File "/usr/local/lib/python2.7/dist-packages/tornado/ioloop.py", line 1041, in _run
+        return self.callback()
+      File "/usr/local/lib/python2.7/dist-packages/notebook/base/zmqhandlers.py", line 189, in send_ping
+        self.ping(b'')
+      File "/usr/local/lib/python2.7/dist-packages/tornado/websocket.py", line 260, in ping
+        raise WebSocketClosedError()
+    WebSocketClosedError
+[I 11:35:40.473 LabApp] Adapting to protocol v5.0 for kernel 8ad20667-4f27-4a4c-bff1-6968a5b44fe9
+[W 11:37:10.474 LabApp] WebSocket ping timeout after 90000 ms.
+[W 11:38:04.096 LabApp] WebSocket ping timeout after 119699 ms.
+[I 11:38:09.099 LabApp] Starting buffering for 8ad20667-4f27-4a4c-bff1-6968a5b44fe9:0926075baafdadae378d86f529797c15
+[I 13:03:42.881 LabApp] 302 GET /amitashukla/UD120/notebookSession/5b76992be4b065aec8b1f5f6 (10.0.254.176) 0.40ms
+[I 13:03:46.221 LabApp] 302 GET /amitashukla/UD120/notebookSession/5b76992be4b065aec8b1f5f6 (10.0.254.176) 0.44ms
+[I 13:03:46.837 LabApp] 302 GET /amitashukla/UD120/notebookSession/5b76992be4b065aec8b1f5f6 (10.0.254.176) 0.44ms
+[I 13:03:52.078 LabApp] 302 GET /amitashukla/UD120/notebookSession/5b76992be4b065aec8b1f5f6 (10.0.40.19) 0.42ms
+[I 13:03:52.583 LabApp] 302 GET /amitashukla/UD120/notebookSession/5b76992be4b065aec8b1f5f6 (10.0.194.105) 0.30ms
+[I 13:03:52.617 LabApp] Build is up to date
+[W 13:03:53.320 LabApp] Notebook final_project/poi_id.ipynb is not trusted
+[I 13:03:53.480 LabApp] Adapting to protocol v5.0 for kernel 8ad20667-4f27-4a4c-bff1-6968a5b44fe9
+[I 13:03:55.038 LabApp] Starting buffering for 8ad20667-4f27-4a4c-bff1-6968a5b44fe9:ee92e734ad51edc37b789e0443b5b8e4
+[I 13:03:56.290 LabApp] Adapting to protocol v5.0 for kernel 8ad20667-4f27-4a4c-bff1-6968a5b44fe9
